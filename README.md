@@ -1,5 +1,9 @@
 # Mirac here 🤚 (sounds similar to Mirage):
-- Hi! I'm a newbie back-end developer who enjoys tackling challenging problems.<br>- I earned my degree in biology from Hacettepe University, with a focus on systematic botany. This is where I discovered my interest in identifying and categorizing different organisms. To stay updated with new methodologies, I ventured into bioinformatics, which ignited my passion for programming.<br>- Motivated by my love for solving new challenges and building practical solutions, I decided to pursue a career in software development. I enrolled in the Patika+ back-end development boot camp, where I've been brainstorming project ideas that help me learn and create effective solutions for real-world issues.<br>- I'm dedicated to continually learning new technologies and working with teams that emphasize cooperation and mutual improvement.<br>- Learning Java and Spring Boot mainly. (but I have an interest in Kotlin that will take place in the new character arc, stay tight !)<br>- You can reach me from LinkedIn or here : m.eypoglu@gmail.com
+- Hi! I'm a newbie back-end developer who enjoys tackling challenging problems.
+- I earned my degree in biology from Hacettepe University, with a focus on systematic botany. This is where I discovered my interest in identifying and categorizing different organisms. To stay updated with new methodologies, I ventured into bioinformatics, which ignited my passion for programming.
+- Motivated by my love for solving new challenges and building practical solutions, I decided to pursue a career in software development. I enrolled in the Patika+ back-end development boot camp, where I've been brainstorming project ideas that help me learn and create effective solutions for real-world issues.
+- I'm dedicated to continually learning new technologies and working with teams that emphasize cooperation and mutual improvement.<br>- Learning Java and Spring Boot mainly. (but I have an interest in Kotlin that will take place in the new character arc, stay tight !)
+- You can reach me from LinkedIn or here : m.eypoglu@gmail.com
 
 
 ## 🌐 Socials:
